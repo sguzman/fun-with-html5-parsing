@@ -1,0 +1,7 @@
+[package]
+name = "fun-with-html5-parsing"
+version = "0.1.0"
+authors = ["Salvador Guzman <guzmansalv@gmail.com>"]
+
+[dependencies]
+html5ever = "0.22.3"
